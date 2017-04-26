@@ -1,3 +1,6 @@
+// This is my solution to Googe Code Jam Round 1A 2017 problem A "Alphabet Cake"
+// Read the problem description here: https://code.google.com/codejam/contest/5304486/dashboard
+
 package main
 
 import (
